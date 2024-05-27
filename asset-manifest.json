@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/quoteme/static/css/main.f855e6bc.css",
+    "main.js": "/quoteme/static/js/main.bd7b58b5.js",
+    "static/js/453.f9bfd808.chunk.js": "/quoteme/static/js/453.f9bfd808.chunk.js",
+    "static/media/logo.svg": "/quoteme/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/quoteme/index.html",
+    "main.f855e6bc.css.map": "/quoteme/static/css/main.f855e6bc.css.map",
+    "main.bd7b58b5.js.map": "/quoteme/static/js/main.bd7b58b5.js.map",
+    "453.f9bfd808.chunk.js.map": "/quoteme/static/js/453.f9bfd808.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bd7b58b5.js"
+  ]
+}
